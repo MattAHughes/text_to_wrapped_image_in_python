@@ -1,5 +1,9 @@
 
 """ 
+Author - MH
+Most Recent Update - 05/01/2023
+
+Description -
 Imports a two column xlsx doc and converts the first column to file names, 
 the second to an image of text limitted to a certain rectangle size, nicely 
 formatted.
